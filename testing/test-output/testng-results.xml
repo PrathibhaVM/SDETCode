@@ -2,40 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="SuiteTestNG" duration-ms="102" started-at="2021-10-10T11:49:00 IST" finished-at="2021-10-10T11:49:00 IST">
+  <suite name="Default suite" duration-ms="8163" started-at="2021-10-27T18:45:36 IST" finished-at="2021-10-27T18:45:44 IST">
     <groups>
     </groups>
-    <test name="Testing" duration-ms="102" started-at="2021-10-10T11:49:00 IST" finished-at="2021-10-10T11:49:00 IST">
-      <class name="Day3.TestNG_3">
-        <test-method status="PASS" signature="testMethod3(java.lang.String,java.lang.String)[pri:0, instance:Day3.TestNG_3@1dd02175]" name="testMethod3" duration-ms="14" started-at="2021-10-10T11:49:00 IST" finished-at="2021-10-10T11:49:00 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[https://google.com]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="8163" started-at="2021-10-27T18:45:36 IST" finished-at="2021-10-27T18:45:44 IST">
+      <class name="restAssuredAssignment.Assignment">
+        <test-method status="PASS" signature="TestCase01_getAccessToken()[pri:0, instance:restAssuredAssignment.Assignment@255b53dc]" name="TestCase01_getAccessToken" duration-ms="5037" started-at="2021-10-27T18:45:36 IST" finished-at="2021-10-27T18:45:41 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod3 -->
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:Day3.TestNG_3@1dd02175]" name="testMethod1" duration-ms="7" started-at="2021-10-10T11:49:00 IST" depends-on-methods="Day3.TestNG_3.testMethod3" finished-at="2021-10-10T11:49:00 IST">
+        </test-method> <!-- TestCase01_getAccessToken -->
+        <test-method status="PASS" signature="TestCase02_adminLogin()[pri:0, instance:restAssuredAssignment.Assignment@255b53dc]" name="TestCase02_adminLogin" duration-ms="1971" started-at="2021-10-27T18:45:41 IST" finished-at="2021-10-27T18:45:43 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod2()[pri:2, instance:Day3.TestNG_3@1dd02175]" name="testMethod2" duration-ms="3" started-at="2021-10-10T11:49:00 IST" finished-at="2021-10-10T11:49:00 IST">
+        </test-method> <!-- TestCase02_adminLogin -->
+        <test-method status="PASS" signature="TestCase03_AddNewCustomer()[pri:0, instance:restAssuredAssignment.Assignment@255b53dc]" name="TestCase03_AddNewCustomer" duration-ms="1083" started-at="2021-10-27T18:45:43 IST" finished-at="2021-10-27T18:45:44 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod2 -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:Day3.TestNG_3@1dd02175]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-10-10T11:49:00 IST" finished-at="2021-10-10T11:49:00 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- Day3.TestNG_3 -->
-    </test> <!-- Testing -->
-  </suite> <!-- SuiteTestNG -->
+        </test-method> <!-- TestCase03_AddNewCustomer -->
+      </class> <!-- restAssuredAssignment.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

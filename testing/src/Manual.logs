@@ -1,0 +1,50 @@
+27/10/2021 09:56:18 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 09:56:23 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"b5e9f1a66d2713c85c03645e7d7da56eddf998bd","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 09:56:24 devpinoyLogger b5e9f1a66d2713c85c03645e7d7da56eddf998bd
+27/10/2021 09:56:24 devpinoyLogger TC001 validation completed
+27/10/2021 09:57:09 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 09:57:13 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"08fad70c85a31f998c9a77e270cbf64ec41b4f93","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 09:57:13 devpinoyLogger 08fad70c85a31f998c9a77e270cbf64ec41b4f93
+27/10/2021 09:57:13 devpinoyLogger TC001 validation completed
+27/10/2021 10:32:32 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 10:32:33 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"ab7eb32666a9716c6e748693ba4dcb2b430fdd23","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 10:32:33 devpinoyLogger ab7eb32666a9716c6e748693ba4dcb2b430fdd23
+27/10/2021 10:32:33 devpinoyLogger TC001 validation completed
+27/10/2021 16:13:15 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 16:13:15 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"077575bf9668c82427a9f4240a930b10e0ac7aff","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 16:13:15 devpinoyLogger 077575bf9668c82427a9f4240a930b10e0ac7aff
+27/10/2021 16:13:15 devpinoyLogger TC001 validation completed
+27/10/2021 16:50:33 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 16:50:33 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"ee03ff77836e51743ebba554ff8a493ff7f51ea6","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 16:50:34 devpinoyLogger ee03ff77836e51743ebba554ff8a493ff7f51ea6
+27/10/2021 16:50:34 devpinoyLogger TC001 validation completed
+27/10/2021 17:26:00 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 17:26:00 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"da0dba087108e3acc902235708705f5cef7ae36e","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 17:26:01 devpinoyLogger da0dba087108e3acc902235708705f5cef7ae36e
+27/10/2021 17:26:01 devpinoyLogger TC001 validation completed
+27/10/2021 17:31:05 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 17:31:06 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"137fd34f8485b04b3ec3a2db78032baab52b16f3","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 17:31:06 devpinoyLogger 137fd34f8485b04b3ec3a2db78032baab52b16f3
+27/10/2021 17:31:06 devpinoyLogger TC001 validation completed
+27/10/2021 17:32:54 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 17:32:55 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"6e9dea6e7afb44eca048719cd3b2540512ccd0b1","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 17:32:55 devpinoyLogger 6e9dea6e7afb44eca048719cd3b2540512ccd0b1
+27/10/2021 17:32:55 devpinoyLogger TC001 validation completed
+27/10/2021 17:53:04 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 17:53:05 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"46f6bf6ad384af918b177b358044d022e469255b","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 17:53:05 devpinoyLogger 46f6bf6ad384af918b177b358044d022e469255b
+27/10/2021 17:53:05 devpinoyLogger TC001 validation completed
+27/10/2021 17:56:40 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 17:56:41 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"ecc7a7d40fb171a63215fda1fa8027ea003c026c","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 17:56:41 devpinoyLogger ecc7a7d40fb171a63215fda1fa8027ea003c026c
+27/10/2021 17:56:41 devpinoyLogger TC001 validation completed
+27/10/2021 18:40:20 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 18:40:24 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"ab365680c36f21efe678950ccf27f9a83f381aa0","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 18:40:24 devpinoyLogger ab365680c36f21efe678950ccf27f9a83f381aa0
+27/10/2021 18:40:24 devpinoyLogger TC001 validation completed
+27/10/2021 18:40:26 devpinoyLogger TC002 validation completed
+27/10/2021 18:45:36 devpinoyLogger Rest Assured Project Assignment starts
+27/10/2021 18:45:41 devpinoyLogger {"success":1,"error":[],"data":{"access_token":"91d090a29784f4819ff5e985b1cd41f316de60b4","expires_in":86400,"token_type":"Bearer"}}
+27/10/2021 18:45:41 devpinoyLogger 91d090a29784f4819ff5e985b1cd41f316de60b4
+27/10/2021 18:45:41 devpinoyLogger Test Case 01 validation completed
+27/10/2021 18:45:43 devpinoyLogger TC002 validation completed
